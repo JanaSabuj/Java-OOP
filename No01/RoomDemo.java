@@ -3,6 +3,8 @@ class Room {
     int width;
     int breadth;
 
+    Room(){}
+
     Room(int h, int w, int b){
         height = h;
         width = w;
